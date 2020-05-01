@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>login.qml</file>
+        <file>MenuSelectPage.qml</file>
+        <file>ModifyDBStackView.qml</file>
+        <file>main.cpp</file>
+        <file>ModifyDBPageEquipType.qml</file>
+        <file>ModifyDBPageEquipObject.qml</file>
+        <file>ModifyDBPageEquipName.qml</file>
+        <file>ModifyDBPageEquipObjectAttrib.qml</file>
+        <file>LabelInputBox.qml</file>
+        <file>TwoColListView.qml</file>
+        <file>TeachGuideMain.qml</file>
+        <file>TeachCabinetPosPage.qml</file>
+        <file>TeachRefinePage.qml</file>
+        <file>TeachOffsetPage.qml</file>
+        <file>TeachGrabDataset.qml</file>
+        <file>TeachJointStatesPage.qml</file>
+        <file>InitVisualCabinetPage.qml</file>
+        
+    </qresource>
+    <qresource prefix="/font"/>
+</RCC>
